@@ -1,7 +1,7 @@
-mysql_address = "root:123456@tcp(mysql:3306)/mj?charset=utf8mb4&parseTime=True&loc=Local"
+mysql_address = "root:123456@tcp(mysql:3307)/mj?charset=utf8mb4&parseTime=True&loc=Local"
 
 redis_address = ":6379"
 
-login_address = "100.100.33.99:5001"
+login_address = "139.196.28.140:5001"
 
-logic_address = "100.100.33.99:5002"
+logic_address = "139.196.28.140:5002"

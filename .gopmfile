@@ -1,0 +1,13 @@
+[deps]
+github.com/Sirupsen/logrus = 
+github.com/dgrijalva/jwt-go = 
+github.com/garyburd/redigo = 
+github.com/go-sql-driver/mysql = 
+github.com/gogo/protobuf = 
+github.com/gorilla/websocket = 
+github.com/labstack/echo = 
+github.com/olahol/melody = 
+github.com/robfig/cron = 
+github.com/spf13/cobra = 
+github.com/spf13/viper = 
+
