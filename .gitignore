@@ -23,7 +23,4 @@ vendor/
 *.log
 */*.log
 
-qnmahjong
-main
-
 dump.rdb
